@@ -1,0 +1,25 @@
+{
+  "name": "sunday_react",
+  "version": "1.0.0",
+  "description": "preworkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "(console.log('yeah it's sunday'))"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Blackwell/PreReact.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "LeChristopher J. Blackwell <CodeBlackwell@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Blackwell/PreReact/issues"
+  },
+  "homepage": "https://github.com/Code-Blackwell/PreReact#readme",
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
+}
